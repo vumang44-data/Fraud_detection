@@ -81,6 +81,8 @@ Key analysis performed:
 - Correlation analysis
 - Outlier detection
 - Fraud trend visualization
+- Hypothetical Testing
+- CLT testing
 
 ---
 
