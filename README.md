@@ -81,8 +81,13 @@ Key analysis performed:
 - Correlation analysis
 - Outlier detection
 - Fraud trend visualization
+<<<<<<< HEAD
 - Hypothetical Testing
 - CLT testing
+=======
+- CLT detection
+- Hypothetical Testing
+>>>>>>> bdf417a (Day 3 add Machine Learning Models Analysis)
 
 ---
 
