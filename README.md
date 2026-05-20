@@ -81,13 +81,8 @@ Key analysis performed:
 - Correlation analysis
 - Outlier detection
 - Fraud trend visualization
-<<<<<<< HEAD
-- Hypothetical Testing
-- CLT testing
-=======
-- CLT detection
-- Hypothetical Testing
->>>>>>> bdf417a (Day 3 add Machine Learning Models Analysis)
+- Hypothesis Testing
+- Central Limit Theorem (CLT) Analysis
 
 ---
 
@@ -110,6 +105,18 @@ Evaluation Metrics:
 - Dataset is highly imbalanced.
 - Certain high-value transactions show suspicious patterns.
 - Fraud occurrence varies based on transaction behavior.
+ 
+ 
+ ## Power BI Dashboard Preview
+
+### Full Dashboard
+![Full Dashboard](images/full_Dashboard.png)
+
+### KPI Section
+![KPI Section](images/kpi_section.png)
+
+### Model Comparison
+![Model Comparison](images/model_comparison.png)
 
 ---
 
@@ -127,6 +134,16 @@ Fraud_detection/
 └── images/
 ```
 
+## Future Improvements
+
+## Project Highlights
+
+- Performed fraud transaction analysis on highly imbalanced financial data.
+- Built machine learning models for fraud detection and model comparison.
+- Designed an interactive Power BI dashboard for fraud monitoring and business insights.
+- Conducted statistical analysis including hypothesis testing and correlation analysis.
+- Implemented an end-to-end analytics workflow from data cleaning to dashboard visualisation.
+
 ---
 
 ## Future Improvements
@@ -138,5 +155,9 @@ Fraud_detection/
 ---
 
 ## Author
-Umang Verma
+
+Umang Verma  
+Engineering Analyst 
+Working on data analysis and business insights for Rolls-Royce aviation project
+NIT Trichy - M.Tech Material Science  
 
