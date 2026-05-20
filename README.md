@@ -1,6 +1,8 @@
 
 # Fraud Detection Project
 
+End-to-End Fraud Detection Analytics Project using Python, Machine Learning, and Power BI
+
 ## Project Overview
 This project focuses on analyzing credit card transactions to identify fraudulent activities using data analytics and machine learning techniques.
 
@@ -87,7 +89,7 @@ Key analysis performed:
 ---
 
 ## Machine Learning Models
-The following models will be implemented:
+The following machine learning models were implemented and evaluated:
 - Logistic Regression
 - Decision Tree
 - Random Forest
@@ -104,8 +106,9 @@ Evaluation Metrics:
 - Fraud transactions are extremely rare.
 - Dataset is highly imbalanced.
 - Certain high-value transactions show suspicious patterns.
-- Fraud occurrence varies based on transaction behavior.
+- Fraud occurrence varies based on transaction behaviour.
  
+---
  
  ## Power BI Dashboard Preview
 
@@ -128,20 +131,19 @@ Fraud_detection/
 ├── Fraud_Detection_Day1.ipynb
 ├── README.md
 ├── .gitignore
-├── data/
-├── notebooks/
-├── powerbi/
+├── creditcard_cleaned.csv
 └── images/
+    ├── full_Dashboard.png
+    ├── kpi_section.png
+    └── model_comparison.png
 ```
-
-## Future Improvements
 
 ## Project Highlights
 
 - Performed fraud transaction analysis on highly imbalanced financial data.
 - Built machine learning models for fraud detection and model comparison.
 - Designed an interactive Power BI dashboard for fraud monitoring and business insights.
-- Conducted statistical analysis including hypothesis testing and correlation analysis.
+- Conducted statistical analysis, including hypothesis testing and correlation analysis.
 - Implemented an end-to-end analytics workflow from data cleaning to dashboard visualisation.
 
 ---
@@ -157,7 +159,10 @@ Fraud_detection/
 ## Author
 
 Umang Verma  
+
 Engineering Analyst 
+
 Working on data analysis and business insights for Rolls-Royce aviation project
+
 NIT Trichy - M.Tech Material Science  
 
